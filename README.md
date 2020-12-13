@@ -7,6 +7,6 @@ Dataset Used Link: https:https://drive.google.com/drive/folders/1kH63vzp1yypM7lv
 
 Model Developed Link: https://drive.google.com/drive/folders/1VjzCWylMF4IoW5YIVgmCaqxVuncbazW4
 
-IAM Dataset Master Link: http://www.fki.inf.unibe.ch/databases/iam-handwriting-database
+Google colab Link: https://colab.research.google.com/drive/1UnjK8Hzv5mvK0WE1wubLeQnpMOMBn-aH
 
 I would like to thank TCS iON Rio 210 team for constantly guiding and providing support throughout the project.
